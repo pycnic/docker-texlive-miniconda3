@@ -1,4 +1,4 @@
-FROM pycnic/debian-texlive:latest
+FROM pycnic/texlive:latest
 
 MAINTAINER Andreas Sorge <as@pycnic.org>
 
